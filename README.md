@@ -38,24 +38,26 @@ Ce projet est une API REST complète développée en Node.js. Elle permet la ges
 
 1. Cloner le dépôt
 
+```bash
 git clone [https://github.com/VOTRE_PSEUDO/tp-courses-api.git](https://github.com/VOTRE_PSEUDO/tp-courses-api.git)
-cd tp-courses-api
 
+cd tp-courses-api
+```
 
 
 2. Installer les dépendances
 
+```bash
 npm install
-
-
+```
 
 ▶️ Utilisation
 
 1. Lancer le serveur
 
+```bash
 npm start
-
-
+```
 
 Le serveur démarrera sur http://localhost:3000.
 
@@ -65,9 +67,9 @@ Ouvrez votre navigateur à l'adresse suivante pour tester l'API :
 
 3. Lancer les tests
 
+```bash
 npm test
-
-
+```
 
 🧪 Exemples de Tests (Swagger)
 
