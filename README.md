@@ -39,7 +39,7 @@ Ce projet est une API REST complète développée en Node.js. Elle permet la ges
 1. Cloner le dépôt
 
 ```bash
-git clone [https://github.com/VOTRE_PSEUDO/tp-courses-api.git](https://github.com/VOTRE_PSEUDO/tp-courses-api.git)
+git clone [https://github.com/canunal-1/API-Gestion-de-Cours.git](https://github.com/canunal-1/API-Gestion-de-Cours.git)
 
 cd tp-courses-api
 ```
